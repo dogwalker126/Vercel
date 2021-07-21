@@ -1,0 +1,5 @@
+{
+  "version": 2,
+  "routes": [
+      {"src": "/(.*)","dest": "https://ssr99.live/$1"}
+  ]
